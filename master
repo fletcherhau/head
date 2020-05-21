@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+
+<header>
+    <h2><a href="#"><i class=""></i> KJM</a></h2> <!-- Mrs Martin has been assigned the teacher code 'KJM' for the fictional purpose of AS91635-->
+    <nav>
+        <ul>
+            <li>
+                <a href="#" title="Stories">Student Stories</a>
+            </li>
+            <li>
+                <a class="btn" href="portal.html" title="Student-Account">Student Account</a>
+            </li>
+        </ul>
+    </nav>
+</header>
